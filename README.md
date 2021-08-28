@@ -114,3 +114,12 @@ remote:
  Đây là câu lệnh dùng để mở app và hưởng thụ kết quả. Vậy là chúng ta đã deploy xong một webapp java lên heroku rồi. Ngoài ra thì phiên bản tomcat/java sẽ cần phải chỉnh lại theo ý muốn của chúng ta. Đây là link để tìm hiểu thêm về vấn đề đó:
  
  [tomcat heroku]https://devcenter.heroku.com/articles/configuring-war-deployment-with-the-heroku-toolbelt
+
+Tài liệu tham khảo:
+Configuring War deployment with the heroku toolbelt: 
+https://devcenter.heroku.com/articles/configuring-war-deployment-with-the-heroku-toolbelt
+ 
+Supported java version: 
+https://devcenter.heroku.com/articles/java-support#supported-java-versions
+
+Trang chủ của heroku: https://www.heroku.com/
