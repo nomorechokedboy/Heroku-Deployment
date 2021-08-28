@@ -41,11 +41,11 @@ Lệnh này sẽ hiện thị danh sách những app đang có trên heroku củ
 Đây là kết quả sau khi gõ lệnh trên:
  
 ```
- 8.5.57/webapps/App/ShoppingCart.war --app shoppingcartjava
+ 8.5.57/webapps/App/your-app.war --app app-name
  
  ›   Warning: heroku update available from 7.35.1 to 7.42.4.
  
-Uploading ShoppingCart.war
+Uploading your-app.war
  
 -----> Packaging application...
  
@@ -53,7 +53,7 @@ Uploading ShoppingCart.war
  
        - including: webapp-runner.jar
  
-       - including: ShoppingCart.war
+       - including: your-app.war.war
  
 -----> Creating build...
  
@@ -87,7 +87,7 @@ remote: -----> Launching...
  
 remote:        Released v3
  
-remote:        https://shoppingcartjava.herokuapp.com/ deployed to Heroku
+remote:        https://your-app.herokuapp.com/ deployed to Heroku
  
 remote: 
  
