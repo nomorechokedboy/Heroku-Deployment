@@ -40,7 +40,8 @@ Lệnh này sẽ hiện thị danh sách những app đang có trên heroku củ
 <Direct path to war file> (Đường dẫn tới war file) thường sẽ là thư mục target của dự án, các bạn copy đường dẫn đó và bỏ vào đây
 Đây là kết quả sau khi gõ lệnh trên:
  
-`8.5.57/webapps/App/ShoppingCart.war --app shoppingcartjava
+```
+ 8.5.57/webapps/App/ShoppingCart.war --app shoppingcartjava
  
  ›   Warning: heroku update available from 7.35.1 to 7.42.4.
  
@@ -91,7 +92,7 @@ remote:        https://shoppingcartjava.herokuapp.com/ deployed to Heroku
 remote: 
  
 -----> Done
-`
+```
  
 `heroku open --app app-name`
  
