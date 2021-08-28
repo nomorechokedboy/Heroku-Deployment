@@ -115,11 +115,14 @@ remote:
  
  [tomcat heroku]https://devcenter.heroku.com/articles/configuring-war-deployment-with-the-heroku-toolbelt
 
-Tài liệu tham khảo:
+### Tài liệu tham khảo:
+ 
 Configuring War deployment with the heroku toolbelt: 
+ 
 https://devcenter.heroku.com/articles/configuring-war-deployment-with-the-heroku-toolbelt
  
 Supported java version: 
+ 
 https://devcenter.heroku.com/articles/java-support#supported-java-versions
 
 Trang chủ của heroku: https://www.heroku.com/
