@@ -11,14 +11,14 @@ Sau đó thì chúng ta tạo **file war** của dự án web. Bây giờ chúng
 
 `heroku login -i`
 
+Kết quả sau khi chạy lệnh login là logged in as ... thì bạn đã login thành công.
+
 ```
 heroku: Enter your login credentials
 Email [your@gmail.com]: 
 Password: ***
 Logged in as your@gmail.com
 ```
-
-Kết quả sau khi chạy lệnh login là logged in as ... thì bạn đã login thành công.
 
 Đây là lệnh để login vào heroku thông qua terminal mà không phải vào qua browser, mọi người có thể google để tìm hiểu thêm.
 
