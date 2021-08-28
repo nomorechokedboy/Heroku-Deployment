@@ -53,7 +53,7 @@ Uploading your-app.war
  
        - including: webapp-runner.jar
  
-       - including: your-app.war.war
+       - including: your-app.war
  
 -----> Creating build...
  
