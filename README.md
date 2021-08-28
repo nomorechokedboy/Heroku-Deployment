@@ -1,5 +1,5 @@
 # Heroku-Deployment for java webapp
-###Đây là bài viết hướng dẫn deploy website lên trên heroku host.
+### Đây là bài viết hướng dẫn deploy website lên trên heroku host.
 **Đầu tiên** thì chúng ta cần tạo tài khoản trên heroku và tải heroku CLI
 ![image](https://user-images.githubusercontent.com/85113374/131202102-4bda4c14-7b1d-4a62-a151-6578421cc133.png)
 
