@@ -11,11 +11,26 @@ Sau đó thì chúng ta tạo **file war** của dự án web. Bây giờ chúng
 
 `heroku login -i`
 
+```
+heroku: Enter your login credentials
+Email [your@gmail.com]: 
+Password: ***
+Logged in as your@gmail.com
+```
+
+Kết quả sau khi chạy lệnh login là logged in as ... thì bạn đã login thành công.
+
 Đây là lệnh để login vào heroku thông qua terminal mà không phải vào qua browser, mọi người có thể google để tìm hiểu thêm.
 
 ***Sau đó ta tạo một app trên heroku bằng lệnh:***
 
 `heroku create app-name`
+
+Kết quả của lệnh này sẽ như thế này: 
+```
+Creating ⬢ app-name... done
+https://app-name.herokuapp.com/ | https://git.heroku.com/app-name.git
+```
 
 câu lệnh trên sẽ tạo ra một app có tên là app-name app name sẽ là tên app của bạn, bạn có thể đặt bất kì tên nào mà bạn muốn miễn là tuân theo quy tắt đặt tên của heroku đó là: không viết hoa, không kí tự đặt biệt và các từ ngăn cách nhau bởi dấu "-"
 
